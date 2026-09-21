@@ -1,3 +1,5 @@
+![Hotel Booking Dashboard](https://raw.githubusercontent.com/Rohi-16/hotel-booking-data-analysis/main/Dashboard.png.jpg)
+
 # Hotel Booking Data Analysis & Dashboard
 
 ## 📊 Project Overview
@@ -17,16 +19,14 @@ The dataset contains **119,390 hotel booking records** from City Hotel and Resor
 
 ## 🔎 Analysis Performed
 
-The project includes analysis of:
-
-- Hotel performance
-- Booking cancellations
+- Hotel performance analysis
+- Booking cancellation analysis
 - Monthly booking trends
-- Average Daily Rate (ADR)
-- Customer type cancellation
-- Deposit type cancellation
-- Room allocation
-- Key performance indicators (KPIs)
+- Average Daily Rate (ADR) analysis
+- Customer type cancellation analysis
+- Deposit type cancellation analysis
+- Room allocation analysis
+- KPI development
 - Dashboard visualization
 
 ## 📈 Key Findings
@@ -39,16 +39,14 @@ The project includes analysis of:
 - **Average ADR:** 101.83
 - **Average Stay:** 3.43 nights
 
-## 📊 Dashboard
+## 📂 Project Files
 
-The Excel dashboard presents key booking and cancellation metrics along with visualizations covering hotel performance, monthly booking volume, customer types, deposit types, and room allocation.
+- `Hotel_Booking_Data_Analysis.xlsx` — Complete Excel analysis, PivotTables, charts, and dashboard
+- `Dashboard.png.jpg` — Dashboard preview
 
-![Hotel Booking Dashboard](dashboard.png)
+## 🔗 View Excel Workbook Online
 
-## 📁 Project Files
-
-- `Hotel_booking_data_analysis.xlsx` — Complete Excel analysis, PivotTables, charts, and dashboard
-- `dashboard.png` — Preview of the completed dashboard
+[Open the Excel workbook in OneDrive](https://1drv.ms/x/c/1758aaa6a256c1fa/IQDHPLNCsIkaQZb-kT5wTgnlAfJDaC0HYthPW2q3EmGT1R0?e=L8Oxtv)
 
 ## 📚 Dataset
 
@@ -56,7 +54,7 @@ The dataset was obtained from Kaggle:
 
 https://www.kaggle.com/datasets/mojtaba142/hotel-booking
 
-The Kaggle dataset credits the original research as the **Hotel Booking Demand** dataset by Nuno Antonio, Ana Almeida, and Luis Nunes.
+The dataset credits the original research as the **Hotel Booking Demand** dataset by Nuno Antonio, Ana Almeida, and Luis Nunes.
 
 ## 🎯 Project Purpose
 
